@@ -1,22 +1,17 @@
-# RV Business V1
+# J&J Outdoors — RV Business V3
 
-Starter marketing website for an RV rental business.
+Personalized landing page for J&J Outdoors in Katy / Houston, Texas.
 
-## Included
-- Responsive landing page
-- RV service sections
-- Quote/lead capture form
-- Local lead storage for demo/testing
-- Mobile friendly design
+## V3 upgrades
+- Real J&J Outdoors RV photos loaded from the Outdoorsy listing
+- Updated visual identity and J&J Outdoors brand mark
+- Outdoorsy rating / delivery / pet-friendly proof points
+- Real Transcend 26BHX specifications and amenities
+- Guest-review section
+- Direct Call / SMS / Email actions
+- Quote-request form
+- Mobile sticky booking bar
 
-## Open it
-Double-click `index.html` or open it in any browser.
+Open `index.html` in a browser to preview the site.
 
-## Recommended V2
-- Real business name/logo/phone
-- WhatsApp/SMS button
-- Email notifications
-- Real lead database
-- Facebook/Instagram ad landing pages
-- Automated follow-up messages
-- Availability calendar
+Note: the two RV images are referenced directly from the live Outdoorsy listing, so internet access is required for them to load. Current pricing and availability are intentionally kept on Outdoorsy so the website does not show stale rates.
